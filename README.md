@@ -90,7 +90,7 @@ Linux | Windows
 
 - **Email**: [maalymoulay@gmail.com](mailto:maalymoulay@gmail.com)  
 - **LinkedIn**: [Moulay El Hassan Maaly](https://www.linkedin.com/feed/)  
-- **GitHub**: [Your GitHub Username](https://github.com/your-username)  
+- **GitHub**: [Moulay El Hassan Maaly](https://github.com/Maaly22240)  
 
 ---
 
