@@ -1,79 +1,97 @@
-# MOULAY EL HASSAN Maaly
+# 👋 Hi, I'm Moulay El Hassan Maaly
 
-**Statisticien/Économiste/Data Scientiste**  
-École Supérieur Polytechnique, ESP  
-Nouakchott, Mauritania  
+### 📊 Statistician | 🧠 Data Scientist | 💻 Data Engineer  
+Currently pursuing a double degree at the National School of Computer Science and Systems Analysis (ENSIAS), specializing in **Data Engineering**. I am passionate about solving real-world problems through data analysis, machine learning, and web development.
 
-[Tél : +22241924655](tel:+22241924655)  
-[E-mail: 22240@esp.mr](mailto:22240@esp.mr)  
-[LinkedIn](https://www.linkedin.com/feed/)  
-[GitHub](https://github.com/Maaly22240)
+---
 
-## Résumé
+## 🎓 Education
 
-Je suis actuellement étudiant en génie à l'École Supérieure Polytechnique de Nouakchott, spécialisé dans le département de Statistique Ingénierie de Données (SID). Passionné par l'analyse de données, j'ai développé des compétences approfondies dans ce domaine et je suis capable d'analyser les données de manière efficace pour en extraire des informations précieuses.
+- **2024 - 2026**: Data Engineering (GD)  
+  _National School of Computer Science and Systems Analysis (ENSIAS), Rabat_  
+  Double degree, engineering cycle  
 
-## Éducation
+- **2022 - 2024**: Statistics and Data Engineering (SID)  
+  _École Supérieure Polytechnique (ESP), Nouakchott_  
+  2nd year, engineering cycle  
 
-- **Statistique Ingénierie de Données (SID)**
-  École supérieure polytechnique, Nouakchott  
-  2ème année, cycle d'ingénierie  
-  2022 - 2024
+- **2020 - 2023**: Mathematical Engineering and Scientific Computing (IMCS)  
+  _Faculty of Science and Technology (FST), Nouakchott_  
+  Master’s level (M2)  
 
-- **Ingénierie mathématique et calcul scientifique (IMCS)**
-  Faculté de Science et Technique (FST), Nouakchott  
-  Niveau M2  
-  2021 - 2023
+- **2018 - 2021**: Bachelor’s in Mathematics and Applications (MA)  
+  _Faculty of Science and Technology (FST), Nouakchott_  
+  2nd rank in graduating class  
 
-- **Licence mathématiques et Applications (MA)**
-  Faculté de Science et Technique (FST), Nouakchott  
-  Licence en mathématique et Applications, 2ème.  
-  2018 - 2021
+---
 
-- **Baccalauréat série mathématique (Bac C)**
-  Lycée de  Bassiknou  
-  2017 - 2018
+## 💻 Projects
 
-## Projets
+- **Master’s Thesis**: *Collocation Method for a Fractional Space Diffusion Equation*  
+  Developed a numerical solution using MATLAB.  
 
-- **PFE Master : Méthode de collocation pour une équation de diffusion fractionnaire en espace (Application avec MATLAB).**
+- **Consumer Price Index Platform**  
+  Designed and developed a Django-based platform to calculate the CPI in Mauritania.  
 
-- **Stage ouvrier à l'Agence Nationale de Statistique et Analyse Démographique et Économique (ANSADE)**
-  03/07/2023 - 28/07/2023
+- **Plant Disease Detection Platform**  
+  Contributed to a team developing a platform to detect agricultural plant diseases using Django.  
 
-- **Création d'une plateforme pour calculer l'indice des prix à la consommation (INPC) en Mauritanie via Django.**
+- **Integrated Web Scraping and Exchange Rate Prediction System**  
+  Designed and implemented a web scraping system coupled with exchange rate prediction using machine learning at the State Digital Agency (AN-ETAT).  
 
-- **Participation à un groupe travaillant sur la création d'une plateforme pour détecter les maladies des plantes dans le domaine de l'agriculture en utilisant Django.**
+---
 
-## Examen de niveau national réussi
+## 🏅 Certifications
 
-Concours National d'Ingénierie Mauritanienne (CNIM)
+- **Machine Learning Specialization Certificate**  
+- **DeepLearning.AI TensorFlow Developer Professional Certificate**  
+- **AWS Academy Cloud Foundations**  
 
-## Compétences
+---
 
-- **Programmation:** Python, CSS, HTML, R, C, C++, Matlab, Stata, Latex
-- **Analyse de données:** Excel, PowerBI, Machine Learning, Deep learning 
-- **Bases de données:** MySQL, NoSQL
-- **Développement Web:** Django, R Shiny , Flask
-- **Outils:** Conception de bases de données, Traitement et analyse de données, ODK, SPSS, PowerBi, Koobocollects
-- **Systèmes d'exploitation:** Linux, Windows
+## 🛠️ Skills
 
-## Langues
+### Programming  
+Python | CSS | HTML | R | C | C++ | MATLAB | Stata | LaTeX  
 
-- Arabe : Langue maternelle 
-- Français : Niveau C1
-- Anglais : Niveau B2
+### Data Analysis  
+Excel | PowerBI | Tableau  
 
-## Centre d'intérêt
+### Databases  
+MySQL | NoSQL  
 
-- Technologie 
-- Lecture 
-- Sport
-- Musique 
-- Voyager
+### Web Development  
+Django | R Shiny | Flask | Express.js  
 
-## Références
+### Tools  
+- Database design  
+- Data processing and analysis  
+- Docker | Minikube  
+- KoBoCollect  
 
-- Directeur Académique (DA) : [ma.louly@esp.mr](mailto:ma.louly@esp.mr) (M. Mohamed Aly Louly)
-- Chef du département Statistique Ingénierie de Données (SID) : [sidi.biha@esp.mr](mailto:sidi.biha@esp.mr) (M. Sidi Biha)
-- Professeur à l'École supérieure polytechnique, Nouakchott : [abou.dieng@esp.mr](mailto:abou.dieng@esp.mr) (M. Abou Dieng)
+### Operating Systems  
+Linux | Windows  
+
+### Specialized Knowledge  
+- Cloud Computing  
+- DevOps | MlOps  
+
+---
+
+## 🌐 Languages
+
+- **Arabic**: Native  
+- **French**: C1 level  
+- **English**: B2 level  
+
+---
+
+## 📬 Get in Touch
+
+- **Email**: [maalymoulay@gmail.com](mailto:maalymoulay@gmail.com)  
+- **LinkedIn**: [Moulay El Hassan Maaly](https://www.linkedin.com/in/your-profile)  
+- **GitHub**: [Your GitHub Username](https://github.com/your-username)  
+
+---
+
+### 🚀 Let's collaborate to transform ideas into impactful solutions!
